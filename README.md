@@ -15,10 +15,8 @@ A simple, clean Docsify plugin to embed [Lucide icons](https://lucide.dev/) dire
 
 ```html
 <script src="https://unpkg.com/lucide@latest"></script>
-<script src="https://unpkg.com/docsify-lucide/src/docsify-lucide.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/bhaireshm/docsify-lucide@master/docsify-lucide.min.js"></script>
 ```
-
-*(Note: Replace the URL with the actual CDN link once published.)*
 
 ## Usage
 
